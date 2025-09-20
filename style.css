@@ -1,0 +1,30 @@
+body{
+    background-color: #2A5D5A;
+}
+
+.title{
+     background-color: black;
+    color: white;
+    font-size: 64px;
+    width: 598px;
+    text-align: center;
+    margin: auto;
+}
+
+.box{
+    background-color: black;
+    border: 10px solid #FF0606;
+    width: 1000px;
+    margin: 30px auto;
+    padding: 45px 52px;
+}
+
+p{
+    background-color: #1FE887;
+    text-align: center;
+    width: 896px;
+    font-size: 24px;
+    margin: 30px auto;
+    padding: 54px 40px;
+    font-weight: 700;
+}
